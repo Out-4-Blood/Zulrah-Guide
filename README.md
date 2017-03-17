@@ -10,3 +10,5 @@ Right-Click resets guide at anytime.
 1, 2, and 3 - Select destination.<br />
 1 - Shades out stages on a certain pattern.<br />
 4 - Resets to Start Pattern at anytime.
+
+*To run in linux you will need the package: libxkbcommon-x11-0
